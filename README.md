@@ -1,4 +1,5 @@
-<img align=center src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soft18">
+<img align=left src="https://github-readme-stats.vercel.app/api?username=pha-ran&show_icons=true&theme=tokyonight">
+<img align=right src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soft18">
 
 <!--
 **pha-ran/pha-ran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
